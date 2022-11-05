@@ -1,8 +1,6 @@
 # DeenCoderV2
 DeenCoderV2 is a python based Morse code translator that is only compatible on windows
 
-package requirements: datetime - pip install datetime
-
 email the creator @: deencodergit@gmail.com
 
 DeenCoderV2 is a complete remake of deencoder
